@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mu'ammal Hamidy</h1>
-<h3 align="center"> Computer Science</h3>
+<h1 align="center">Hallo 👋, I'm Muhammad Mu'ammal Hamidy</h1>
+<h3 align="center"><b> Computer Science </b></h3>
+<h3 align="center">  Universitas Pertamina</h3>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://MuhammadHamidy.github.io/](https://MuhammadHamidy.github.io/)
+- 👨‍💻 You can also check my portfolio at [https://MuhammadHamidy.github.io/](https://MuhammadHamidy.github.io/)
 
-- 📫 How to reach me **hamidym84@gmail.com**
+- 📫 How to contact me **hamidym84@gmail.com**
 
-- ⚡ Fun fact **Jalan Aja dulu**
+- ⚡ My words of encouragement **"Jalan Aja dulu"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
