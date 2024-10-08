@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad HMu'ammal Hamidy</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Mu'ammal Hamidy</h1>
 <h3 align="center"> Computer Science</h3>
 
 
