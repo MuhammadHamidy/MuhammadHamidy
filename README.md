@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can also check my portfolio at [https://MuhammadHamidy.github.io/](https://MuhammadHamidy.github.io/)
 
-- 📫 How to contact me **hamidym84@gmail.com**
+- 📫 How to contact me **hamidym84@gmail.com** or **www.linkedin.com/in/m-muammalhamidy8**
 
 - ⚡ My words of encouragement **"Jalan Aja dulu"**
 
