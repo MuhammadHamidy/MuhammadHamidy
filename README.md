@@ -7,7 +7,7 @@
 
 - 📫 How to contact me **hamidym84@gmail.com** or **www.linkedin.com/in/muammalhamidy**
 
-- ⚡ My words of encouragement **"Jalan Aja dulu"**
+- ⚡ My words of encouragement **"Jalan dan Hati - Hati Melangkah"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
